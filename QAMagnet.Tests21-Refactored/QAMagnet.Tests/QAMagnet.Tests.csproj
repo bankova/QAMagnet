@@ -57,9 +57,9 @@
     <Compile Include="Common\CommonTestData.cs" />
     <Compile Include="Common\BaseQAMagnetTests.cs" />
     <Compile Include="Common\Pages\BasePage.cs" />
-    <Compile Include="ErrorPages\ErrorPage.Asserter.cs" />
-    <Compile Include="ErrorPages\ErrorPage.Map.cs" />
-    <Compile Include="ErrorPages\ErrorPageTests.cs" />
+    <Compile Include="Pages\ErrorPage\ErrorPage.Asserter.cs" />
+    <Compile Include="Pages\ErrorPage\ErrorPage.Map.cs" />
+    <Compile Include="Pages\ErrorPage\ErrorPageTests.cs" />
     <Compile Include="Pages\HomePage\HomePage.Asserter.cs" />
     <Compile Include="Pages\HomePage\HomePageTests.cs" />
     <Compile Include="Pages\HomePage\HomePage.Map.cs" />
